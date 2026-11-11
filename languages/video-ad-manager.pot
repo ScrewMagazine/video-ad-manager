@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Ad Manager 1.2.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/video-ad-manager/\n"
+"POT-Creation-Date: 2026-11-11 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: video-ad-manager\n"
+
+#: includes/mediarazzi-connector.php:391
+msgid ". Replacing the creative preserves its VAST URL. A VAST-capable video player, not this plugin, renders the click overlay and skip button."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "1. Free: Create your first commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431 video-ad-manager.php:236
+msgid "10 seconds"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431 video-ad-manager.php:236
+msgid "15 seconds"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:392
+msgid "2. Connect MEDIARAZZI Pro"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:394
+msgid "3. Your Ads, pods, and advanced tags"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431 video-ad-manager.php:236
+msgid "30 seconds"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:395
+msgid "4. Statistics"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431 video-ad-manager.php:236
+msgid "5 seconds"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "5. Connection troubleshooting"
+msgstr ""
+
+#: video-ad-manager.php:251
+msgid "About VAST"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:373
+msgid "Account connection"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:350
+msgid "Account Overview"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:214 includes/mediarazzi-connector.php:439 includes/mediarazzi-connector.php:456 includes/mediarazzi-connector.php:461
+msgid "Actions"
+msgstr ""
+
+#: video-ad-manager.php:249
+msgid "Active"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:214
+msgid "Ad"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Ad created."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:452 includes/mediarazzi-connector.php:453
+msgid "Ad ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:463
+msgid "Ad Pod"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Ad pod created."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Ad pod items updated."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:353 includes/mediarazzi-connector.php:419 includes/mediarazzi-connector.php:456
+msgid "Ad Pods"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:463
+msgid "Ad Rotation"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:354 includes/mediarazzi-connector.php:419 includes/mediarazzi-connector.php:433
+msgid "Ad Rotations"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:439
+msgid "Ad weights"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:451
+msgid "Add or update an ad weight"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:470
+msgid "Additional date, domain, geography, and device reporting requires further MEDIARAZZI API endpoints. No unsupported metrics are fabricated here."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:381 includes/mediarazzi-connector.php:419 includes/mediarazzi-connector.php:461
+msgid "Advanced Tag Builder"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:355
+msgid "Advanced Tags"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:384
+msgid "After connecting, use the MEDIARAZZI Pro tabs for ads, rotations, pods, saved VAST tags, and account statistics."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "and"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "and enable"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:381
+msgid "and find"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:414
+msgid "API key to test"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "App ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:311
+msgid "Available in PRO"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:360 includes/mediarazzi-connector.php:366
+msgid "Bandwidth"
+msgstr ""
+
+#: video-ad-manager.php:255
+msgid "Basic Statistics"
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Before you publish"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Check that the key is active and has read/write permissions; revoke and recreate if needed."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Check WordPress outbound HTTPS access, firewall settings, and MEDIARAZZI availability."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "Choose an MP4 in your WordPress Media Library or enter a directly playable public MP4 URL."
+msgstr ""
+
+#: video-ad-manager.php:231
+msgid "Click-through destination URL"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:429
+msgid "Click-through URL"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:257 video-ad-manager.php:262
+msgid "Clicks"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:463
+msgid "Commercial"
+msgstr ""
+
+#: video-ad-manager.php:222
+msgid "Commercial Editor"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:459
+msgid "Commercial IDs (comma-separated)"
+msgstr ""
+
+#: video-ad-manager.php:226
+msgid "Commercial name"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:468
+msgid "Commercial Performance"
+msgstr ""
+
+#: video-ad-manager.php:216
+msgid "Commercial saved."
+msgstr ""
+
+#: video-ad-manager.php:262
+msgid "Complete"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282
+msgid "Completes"
+msgstr ""
+
+#: video-ad-manager.php:257
+msgid "Completions"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Confirm the MP4 can be fetched, the media type is supported, the player supports VAST 3.0 and skipping, and the endpoint is reachable."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:65
+msgid "Connect using a valid MEDIARAZZI developer API key."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Connected to MEDIARAZZI."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:417
+msgid "Connected."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Connection error:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Connection test passed. The API accepted your key. No account changes were made."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "Content ID"
+msgstr ""
+
+#: video-ad-manager.php:150 video-ad-manager.php:154
+msgid "Copied!"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:383
+msgid "Copy the key when it appears. Paste it below, then choose"
+msgstr ""
+
+#: video-ad-manager.php:250
+msgid "Copy URL"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:223 includes/mediarazzi-connector.php:243 includes/mediarazzi-connector.php:244 includes/mediarazzi-connector.php:446
+msgid "Copy VAST Tag"
+msgstr ""
+
+#: video-ad-manager.php:150
+msgid "Copy VAST tag:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Create a developer key in MEDIARAZZI and paste the entire key, without spaces."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "Create a key named"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:462
+msgid "Create a permanent MEDIARAZZI tag targeting one of your hosted commercials or pods. Tag parameters are applied server-side."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:462
+msgid "Create Advanced Tag"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431
+msgid "Create Commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:428
+msgid "Create New Ad"
+msgstr ""
+
+#: video-ad-manager.php:215
+msgid "Create one clickable, skippable VAST 3.0 commercial and track its performance."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:457
+msgid "Create pod"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:457
+msgid "Create Pod"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:450
+msgid "Create rotation"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:450
+msgid "Create Rotation"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:466
+msgid "Create VAST Tag"
+msgstr ""
+
+#: video-ad-manager.php:262
+msgid "Date (UTC)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:381
+msgid "Developer API / API Keys"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:412
+msgid "Developer API key"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:375
+msgid "Disconnect"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Disconnected. Existing hosted ads have not been altered."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:214
+msgid "Duration"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:430
+msgid "Duration (seconds)"
+msgstr ""
+
+#: video-ad-manager.php:244
+msgid "Enable commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "Enable the commercial and save it. Copy its VAST URL into a compatible player."
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Ensure the MP4 supports cross-site playback and byte-range requests."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Ensure your player calls the VAST tracking URLs. Merely fetching VAST XML does not indicate a playback impression."
+msgstr ""
+
+#: video-ad-manager.php:217
+msgid "Enter a name and valid HTTP(S) media and destination URLs. The skip offset must be shorter than the video duration."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:262
+msgid "Errors"
+msgstr ""
+
+#: video-ad-manager.php:272
+msgid "Explore MEDIARAZZI"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:395
+msgid "Free statistics are stored locally in WordPress. MEDIARAZZI statistics come from the connected account. VAST requests, impressions, starts, skips, clicks and completions are distinct events. Reporting accuracy depends on a player firing the relevant trackers. Rotation management requires the separate MEDIARAZZI rotations API patch; advanced report filtering remains dependent on future API work."
+msgstr ""
+
+#: video-ad-manager.php:270
+msgid "Grow with MEDIARAZZI"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:430
+msgid "Height (px)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:25
+msgid "Help & Documentation"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:439
+msgid "ID"
+msgstr ""
+
+#: video-ad-manager.php:236
+msgid "Immediately"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:257 video-ad-manager.php:262
+msgid "Impressions"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "in the WordPress sidebar."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:381
+msgid "In your MEDIARAZZI dashboard, open"
+msgstr ""
+
+#: video-ad-manager.php:249
+msgid "Inactive"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:33
+msgid "Invalid form data."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Invalid key:"
+msgstr ""
+
+#: video-ad-manager.php:400
+msgid "Invalid tracking event."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:385
+msgid "Keep your key private. Do not put it in a public page, VAST URL, or support screenshot. If exposed, revoke it in MEDIARAZZI and create another."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:350
+msgid "Live data from your connected MEDIARAZZI account."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:458
+msgid "Manage Pod Ads"
+msgstr ""
+
+#: video-ad-manager.php:241
+msgid "Media height (px)"
+msgstr ""
+
+#: video-ad-manager.php:229
+msgid "Media Library"
+msgstr ""
+
+#: video-ad-manager.php:240
+msgid "Media width (px)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:24
+msgid "MEDIARAZZI Connection"
+msgstr ""
+
+#: video-ad-manager.php:273
+msgid "MEDIARAZZI connection is available under Video Ad Manager > MEDIARAZZI Pro. Billing is managed separately by MEDIARAZZI."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:77
+msgid "MEDIARAZZI could not be reached. Check the server connection and TLS settings."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:24 includes/mediarazzi-connector.php:406
+msgid "MEDIARAZZI Pro"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:80
+msgid "MEDIARAZZI response exceeds limit."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:82
+msgid "MEDIARAZZI returned an unexpected response (HTTP %d)."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:84
+msgid "MEDIARAZZI returned HTTP %d. Confirm your API key permissions or contact MEDIARAZZI support."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "Missing playback statistics:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:456
+msgid "Mode"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:429
+msgid "MP4 URL"
+msgstr ""
+
+#: video-ad-manager.php:228
+msgid "MP4 video URL"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:429
+msgid "Name"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431
+msgid "Never"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:213 includes/mediarazzi-connector.php:274
+msgid "No ads found."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:257
+msgid "No statistics available yet."
+msgstr ""
+
+#: video-ad-manager.php:263
+msgid "No tracked activity yet."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:313
+msgid "Not available from API"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:329
+msgid "Not measured"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:28
+msgid "Not permitted."
+msgstr ""
+
+#: video-ad-manager.php:236
+msgid "Not skippable"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:397
+msgid "Note:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:234
+msgid "Nothing here yet."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:394
+msgid "Once connected, create ads with public MP4 URLs, create pods, set their ordered commercial IDs, and generate saved VAST tags using existing MEDIARAZZI API operations. Hosted file uploads remain available through the MEDIARAZZI website."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:391
+msgid "one active commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "Open"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:393
+msgid "Open MEDIARAZZI Connection"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:350
+msgid "Open MEDIARAZZI Dashboard"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:408
+msgid "Operation failed."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:383
+msgid "or"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:419
+msgid "Overview"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "permissions."
+msgstr ""
+
+#: video-ad-manager.php:331
+msgid "PHP DOM extension is required for VAST generation."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "Placement"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "Platform"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:456
+msgid "Pod"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:459
+msgid "Pod ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:457
+msgid "Pod name"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "read"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:415
+msgid "Read full help"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:453
+msgid "Remove Ad"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:453
+msgid "Remove ad from rotation"
+msgstr ""
+
+#: video-ad-manager.php:218
+msgid "Replace both example.com addresses with real URLs before activating the commercial."
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Replace the example URLs with working HTTPS links."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:257 video-ad-manager.php:262
+msgid "Requests"
+msgstr ""
+
+#: video-ad-manager.php:261
+msgid "Requests count VAST endpoint calls. Impressions and other playback milestones are recorded only when a player calls their tracking URLs. These are not unique-person counts."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:433
+msgid "Rotate among hosted ads using MEDIARAZZI weighted delivery. Requires the matching MEDIARAZZI rotations API extension on your server."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:439
+msgid "Rotation"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Rotation created."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:369
+msgid "Rotation data is unavailable. Check that the MEDIARAZZI rotation API patch is installed and working."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:452 includes/mediarazzi-connector.php:453
+msgid "Rotation ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:450
+msgid "Rotation name"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Rotation updated."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:383
+msgid "Save & Connect"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:412
+msgid "Save & Connect MEDIARAZZI"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:452
+msgid "Save Ad Weight"
+msgstr ""
+
+#: video-ad-manager.php:245
+msgid "Save Commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:459
+msgid "Save Pod Items"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:405
+msgid "Saved tag created."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:385
+msgid "Security:"
+msgstr ""
+
+#: video-ad-manager.php:154
+msgid "Select and copy URL"
+msgstr ""
+
+#: video-ad-manager.php:154
+msgid "Select MP4 commercial"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:457
+msgid "Sequence"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390
+msgid "Set a name, click destination, video duration and size, and the skip delay (5 seconds by default)."
+msgstr ""
+
+#: video-ad-manager.php:243
+msgid "Set the actual media duration and dimensions. Advertised VAST metadata must match the file."
+msgstr ""
+
+#: video-ad-manager.php:136
+msgid "Settings"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:457
+msgid "Shuffle"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:380
+msgid "Sign up or log in to MEDIARAZZI"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "Site ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:431 video-ad-manager.php:235
+msgid "Skip after"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:257 video-ad-manager.php:262
+msgid "Skips"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282 video-ad-manager.php:257 video-ad-manager.php:262
+msgid "Starts"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:419
+msgid "Statistics"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:214 includes/mediarazzi-connector.php:456 includes/mediarazzi-connector.php:461
+msgid "Status"
+msgstr ""
+
+#: video-ad-manager.php:249
+msgid "Status:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:359 includes/mediarazzi-connector.php:365
+msgid "Storage"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:465
+msgid "Sub ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:461
+msgid "Tag"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:463
+msgid "Tag name"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:461 includes/mediarazzi-connector.php:464
+msgid "Target ID"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:463
+msgid "Target type"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:374 includes/mediarazzi-connector.php:383
+msgid "Test Connection"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:414
+msgid "Test Connection (does not save)"
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Test the VAST tag in your intended player."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:417
+msgid "The API key is encrypted before storage in WordPress options using keys derived from WordPress security salts. Restrict administrator and database access, use HTTPS, and revoke the key in MEDIARAZZI if compromised. Connection does not modify billing."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:391
+msgid "The free edition supports"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:300
+msgid "The MEDIARAZZI API returned its current 500-row limit. Some event totals may be incomplete."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:397
+msgid "The Test Connection button verifies API read access. It does not prove write permissions, billing status, or successful ad playback."
+msgstr ""
+
+#: video-ad-manager.php:249
+msgid "The VAST endpoint returns HTTP 204 while inactive."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:468
+msgid "These are MEDIARAZZI player-reported events, not deduplicated unique viewers. Metrics are fetched from your account."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:461
+msgid "Type"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:323
+msgid "Unavailable"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:66
+msgid "Unsupported API operation."
+msgstr ""
+
+#: video-ad-manager.php:271
+msgid "Upgrade to the hosted MEDIARAZZI VAST Ad Server for multiple commercials, rotations, ad pods, Advanced Tag Builder and comprehensive reporting."
+msgstr ""
+
+#: video-ad-manager.php:230
+msgid "Upload an MP4 into WordPress or paste a direct, publicly accessible MP4 URL. This is not a YouTube watch-page link."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:428
+msgid "Use a publicly accessible direct MP4 URL. MEDIARAZZI video uploads remain available in its hosted dashboard."
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Use HTTPS on the WordPress site."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:458
+msgid "Use the ID of a pod above and the ordered ad IDs from Your Ads. Submitting an empty commercial list clears the pod."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:451
+msgid "Use the ID of the rotation above and the ad ID listed on Your Ads. Higher weights are selected more often."
+msgstr ""
+
+#: video-ad-manager.php:154
+msgid "Use this video"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:406
+msgid "Use your MEDIARAZZI VAST Ad Server account from WordPress. Your free locally served commercial remains independent."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:396
+msgid "VAST ad does not play:"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:282
+msgid "VAST Requests"
+msgstr ""
+
+#: video-ad-manager.php:248
+msgid "VAST Tag"
+msgstr ""
+
+#: video-ad-manager.php:275
+msgid "Verify the true video duration."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:390 video-ad-manager.php:132 video-ad-manager.php:214
+msgid "Video Ad Manager"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:25
+msgid "Video Ad Manager Help"
+msgstr ""
+
+#: video-ad-manager.php:47
+msgid "Video Ad Manager records daily aggregate ad requests and video-player tracking events in your WordPress database. The plugin does not store viewer IP addresses in its statistics table, although normal server access logs may do so. If you voluntarily connect to MEDIARAZZI, the site administrator sends an API key and advertising configuration data to the MEDIARAZZI service over HTTPS. External video hosting and advertisement destinations may collect visitor data under their own policies."
+msgstr ""
+
+#: video-ad-manager.php:234
+msgid "Video duration (seconds)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:224 includes/mediarazzi-connector.php:243 includes/mediarazzi-connector.php:244 includes/mediarazzi-connector.php:446
+msgid "View VAST"
+msgstr ""
+
+#: video-ad-manager.php:251
+msgid "View VAST XML"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:413
+msgid "Want to check your key first? The test below checks read access without saving the key."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:452
+msgid "Weight (1 to 100)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:430
+msgid "Width (px)"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "WordPress Video Ad Manager"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:382
+msgid "write"
+msgstr ""
+
+#: video-ad-manager.php:159
+msgid "You are not permitted to manage video ads."
+msgstr ""
+
+#: includes/mediarazzi-connector.php:290 includes/mediarazzi-connector.php:352 includes/mediarazzi-connector.php:419 includes/mediarazzi-connector.php:427
+msgid "Your Ads"
+msgstr ""
+
+#: includes/mediarazzi-connector.php:373
+msgid "Your API key is stored encrypted in WordPress. Test or disconnect your account below."
+msgstr ""
+
